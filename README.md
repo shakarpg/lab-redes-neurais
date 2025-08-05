@@ -43,5 +43,3 @@ transfer-learning-cats-vs-dogs/
 - Acurácia esperada: +90%
 - Modelo salvo em `.h5` para reuso
 
-## 📥 Contato
-Rafael PG — [Seu GitHub](https://github.com/shakarpg)
